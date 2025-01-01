@@ -14,6 +14,7 @@
   </a>
 </kbd>
 <br/>
+<br/>
 Stealbrew is a Minecraft server network comprising of Lifesteal. Since the server is mostly open source, feel free to create your own Pull Requests with any bug fixes or suggestions.
 
 </div>
